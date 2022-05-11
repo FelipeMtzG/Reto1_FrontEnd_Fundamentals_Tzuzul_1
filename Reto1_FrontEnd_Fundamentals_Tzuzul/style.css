@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+*{
+    box-sizing: border-box;
+}
+
+.parrafo{
+    width: 350px;
+    height: 350px;
+    border: 1px solid;
+    margin: 0 auto;
+    background-color: gray;
+}
+.parrafo h1{
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+.parrafo p{
+    text-align: center;
+}
